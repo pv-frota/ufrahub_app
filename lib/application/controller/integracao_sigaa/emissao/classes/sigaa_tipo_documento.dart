@@ -1,0 +1,4 @@
+enum TipoDocumentoEnum {
+  vinculo,
+  historico
+}
